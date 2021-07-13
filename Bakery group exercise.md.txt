@@ -1,0 +1,95 @@
+﻿BakeryApp
+ (Links to an external site.)Your favorite bakery needs to create a database of its fresh goods!
+You're in a team of 2 (or 3).
+Create at least 15 baked goods and save it into a collection of data. Each baked good has a name, price, an expiration date, one or more diet restrictions (ie. gluten allergies), and quantity in stock. The program should allow the user to search by diet restrictions and print all matching results. For a list of example products, see https://sensitivesweets.com/collections/breads (Links to an external site.)
+All processes must happen in Classes, not in the main method of a Main class.
+
+
+Pseudocode:
+
+
+Project: BakeryApp
+
+
+BakeryApp.java
+                Import Scanner
+
+
+                Welcome message
+
+
+                Create baked good 1-15
+                
+                Create an array list of baked goods
+                
+                Add baked 15 good into array list
+
+
+                Prompt the user to enter a dietary restriction
+                Take the restriction and search it from 
+                
+
+
+BakedGood.class
+
+
+        Attributes
+                String Name
+                Double Price
+                String Expiration date
+                String Dietary restrictions
+                int Stock
+
+
+        Constructor (name, price, exp date, dietary restrictions, stock)
+                Generates a new baked good with these attributes
+
+
+
+
+
+
+        Getters/Setters 
+                Read or change attributes
+
+
+
+
+
+
+        displayBakedGood method
+                Print all attributes of the baked good
+
+
+
+
+
+
+
+
+
+
+switch(userInput)
+        Case 1:
+                array.get(1)
+                Break
+        Case 2 
+                
+
+
+
+
+
+
+Job 2: create the bakedgood class(khulan)
+Job 1: create the bakedgoods instances in main(Jabir)
+Job 3: the rest of main app (nick)
+
+
+  
+
+
+
+
+
+
